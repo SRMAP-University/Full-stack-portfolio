@@ -8,6 +8,7 @@ This Flask application is a comprehensive full-stack portfolio website that incl
    - **User Model**: Stores user information, including username and hashed password.
    - **Login/Logout**: Routes for user login and logout.
 
+
 2. **Content Management**
    - **Blogs**: CRUD operations for blog posts, including archiving and deletion.
    - **Projects**: CRUD operations for projects, including file uploads for cover images.
